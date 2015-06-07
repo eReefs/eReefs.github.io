@@ -15,6 +15,9 @@ avatar: https://github.com/eReefs/eReefs.github.io/raw/269fd7989b5195d89e94ea24c
 # Flags below are optional
 #
 
+# don't show posts with a future date:
+future: FALSE
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -26,7 +29,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: 
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
